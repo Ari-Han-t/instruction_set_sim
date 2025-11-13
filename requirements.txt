@@ -1,3 +1,6 @@
 uvicorn
 requests
 fastapi
+Jinja2
+Request
+Form
