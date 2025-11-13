@@ -3,3 +3,4 @@ requests
 fastapi
 Jinja2
 pydantic
+python-multipart
